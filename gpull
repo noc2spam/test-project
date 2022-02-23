@@ -1,5 +1,0 @@
-#!/bin/bash
-git pull
-if [$? -ne 0]; then
-    ... error processing
-fi
